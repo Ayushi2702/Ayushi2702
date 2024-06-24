@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayushi2702](https://github.com/Ayushi2702)
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++/Java**
 
 - 📫 How to reach me **ak9807@srmist.edu.in**
 
