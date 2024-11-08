@@ -12,10 +12,6 @@
 - 📫 How to reach me **ak9807@srmist.edu.in**
 
 
-- ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@ak980750975/30-nites-of-code)  
-  ![@ak980750975 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=ak980750975)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
